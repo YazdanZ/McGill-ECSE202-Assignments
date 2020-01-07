@@ -21,8 +21,6 @@ import acm.gui.TableLayout;
  * they could be accessed later for histogramming and stacking when the simulation is over.
  * This class is also responsible for setting up the display and the GUI user interface(the JcomboBoxes,
  * integer and double fields and the panels).
- * 
- * @author Yazdan Zinati 
  *
  */
 public class bSim extends GraphicsProgram implements  ItemListener 
