@@ -5,7 +5,6 @@
  * for screen parameters such as Width,Height,Scale 
  * and offset
  * 
- * @author Yazdan Zinati 
  *
  */
 public class gUtil 
