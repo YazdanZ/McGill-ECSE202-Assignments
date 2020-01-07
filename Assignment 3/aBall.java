@@ -7,7 +7,6 @@ import acm.graphics.GOval;
  * of the screen and from the ground 
  * For the objects to run concurrently we extend Thread
  * 
- * @author Yazdan Zinati
  *
  */
 public class aBall extends Thread
