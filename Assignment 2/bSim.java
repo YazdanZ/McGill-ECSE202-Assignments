@@ -1,5 +1,4 @@
 /*
- * @author Yazdan
  * This class sets up the display, 
  * generates parameters and an instance of each ball,
  * and runs until terminated by the user
