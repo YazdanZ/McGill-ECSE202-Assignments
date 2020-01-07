@@ -1,5 +1,4 @@
 /*
- * @author Yazdan
  * This class creates an instance of a GOval from the 
  * specified parameters (constructor),One this instance is generated 
  * the simulation loop runs until the ball runs out of steam
