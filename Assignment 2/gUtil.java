@@ -1,6 +1,5 @@
 
 /*
- * @author Yazdan
  * This class is a helper class
  * converting X and Y
  * positions to screen coordinates,
