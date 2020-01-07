@@ -11,8 +11,6 @@ The ball starts from the lower left side of  the screen and follows a parabolic 
 Contrary to Assignment #1 , this assignment won't be a graphical program, instead this program will output 
 the simulation results into the console. We  will use Newtonian mechanics in order 
 to do all the simualtion and calculations.
-
-@author Yazdan Zinati 
 */
 
 //Parameters defined in this program: 
