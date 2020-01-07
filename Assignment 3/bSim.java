@@ -11,7 +11,6 @@ import acm.util.RandomGenerator;
  * The binary tree in bTree class record the balls created so they could be accessed later
  * when  this simulation is terminated
  * 
- * @author Yazdan Zinati 
  *
  */
 public class bSim extends GraphicsProgram
