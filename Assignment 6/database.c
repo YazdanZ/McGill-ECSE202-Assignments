@@ -1,7 +1,6 @@
 /*
  ============================================================================
  Name        : database.c
- Author      : Yazdan Zinati
  Version     : 5.1.4
  Copyright   : Your copyright notice
  Description : A simple program to manage a small database of student
