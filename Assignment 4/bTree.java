@@ -6,7 +6,6 @@
  * balls with approximatly same Size will be in 
  * the same category and will be Stacked one on the other 
  * 
- * @author Yazdan Zinati
  *
  */
 
