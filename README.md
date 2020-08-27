@@ -11,4 +11,4 @@ Assignment 4: recreated the same simulation in assignment 1 and 2 while also imp
 
 Assignment 5: Using C language,we recreate Assignment 1 wich was written in Java.
 
-Assigment 6: Using C language,we created a student database while also being able to read textfiles with all the student informations on it- This program responds to a list of commands.
+Assignment 6: Using C language,we created a student database while also being able to read textfiles with all the student informations on it- This program responds to a list of commands.
