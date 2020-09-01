@@ -17,4 +17,5 @@ Assignment 6: Using C language,we created a student database while also being ab
 
 ## Preview
 ![Image description](https://github.com/UNIX-Like-Human/McGill-ECSE202/blob/master/Preview1.png)
+
 ![Image description](https://github.com/UNIX-Like-Human/McGill-ECSE202/blob/master/Preview2.png)
