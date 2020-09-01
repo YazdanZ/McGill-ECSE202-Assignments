@@ -1,7 +1,7 @@
 # McGill-ECSE-202
 Assignments given by  Frank p. Ferrie
 
-Assignment 1: creating a java applet that simulates Newton's Law of a ball dropping from a specified height and bouncing as soon as it hits the floor, while taking energy loss into account.
+Assignment 1: creating a Java applet that simulates Newton's Law of a ball dropping from a specified height and bouncing as soon as it hits the floor, while taking energy loss into account.
 
 Assignment 2: recreated the simulation in assignment 1 but this time we simulate multiple balls dropping at once using Threads
 
