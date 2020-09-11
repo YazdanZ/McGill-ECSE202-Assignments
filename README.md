@@ -1,5 +1,7 @@
 # McGill-ECSE-202
-Assignments given by  Frank p. Ferrie
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=FF9C42)
+
+Assignments in ECSE202-Software Development
 
 ## Assignments
 Assignment 1: creating a Java applet that simulates Newton's Law of a ball dropping from a specified height and bouncing as soon as it hits the floor, while taking energy loss into account.
