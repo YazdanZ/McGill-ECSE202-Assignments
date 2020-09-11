@@ -1,5 +1,6 @@
 # McGill-ECSE-202
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=FF9C42)
+![](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=C&logoColor=white&color=A8B9CC)
 
 Assignments in ECSE202-Software Development
 
